@@ -14,7 +14,7 @@ require (
 	github.com/stretchr/testify v1.8.1
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
 	gopkg.in/h2non/gock.v1 v1.1.2
-	k8s.io/apimachinery v0.0.0-20190703205208-4cfb76a8bf76
+	k8s.io/apimachinery v0.27.0-alpha.2
 )
 
 require (
@@ -24,15 +24,17 @@ require (
 	github.com/cloudflare/circl v1.1.0 // indirect
 	github.com/emirpasic/gods v1.18.1 // indirect
 	github.com/go-git/gcfg v1.5.0 // indirect
-	github.com/golang/protobuf v1.3.2 // indirect
+	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/imdario/mergo v0.3.13 // indirect
 	github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 // indirect
 	github.com/kevinburke/ssh_config v1.2.0 // indirect
 	github.com/pjbgf/sha1cd v0.2.3 // indirect
+	github.com/rogpeppe/go-internal v1.9.0 // indirect
 	github.com/sergi/go-diff v1.1.0 // indirect
 	github.com/skeema/knownhosts v1.1.0 // indirect
 	github.com/xanzy/ssh-agent v0.3.3 // indirect
 	golang.org/x/crypto v0.3.0 // indirect
+	google.golang.org/protobuf v1.28.1 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 )
 
