@@ -10,7 +10,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/shurcooL/githubv4 v0.0.0-20190718010115-4ba037080260
 	github.com/shurcooL/graphql v0.0.0-20181231061246-d48a9a75455f
-	github.com/sirupsen/logrus v1.9.0
+	github.com/sirupsen/logrus v1.9.2
 	github.com/stretchr/testify v1.8.2
 	golang.org/x/oauth2 v0.7.0
 	gopkg.in/h2non/gock.v1 v1.1.2
