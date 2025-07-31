@@ -6,7 +6,7 @@ require (
 	github.com/bluekeyes/go-gitdiff v0.8.0
 	github.com/go-git/go-billy/v5 v5.6.2
 	github.com/go-git/go-git/v5 v5.13.0
-	github.com/google/go-cmp v0.6.0
+	github.com/google/go-cmp v0.7.0
 	github.com/mitchellh/copystructure v1.2.0
 	github.com/pkg/errors v0.9.1
 	github.com/shurcooL/githubv4 v0.0.0-20190718010115-4ba037080260
@@ -15,8 +15,8 @@ require (
 	github.com/stretchr/testify v1.10.0
 	golang.org/x/oauth2 v0.30.0
 	gopkg.in/h2non/gock.v1 v1.1.2
-	k8s.io/apimachinery v0.30.3
-	k8s.io/utils v0.0.0-20230726121419-3b25d923346b
+	k8s.io/apimachinery v0.33.3
+	k8s.io/utils v0.0.0-20241104100929-3ea5e8cea738
 )
 
 require (
@@ -52,4 +52,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1
 )
 
-go 1.23.0
+go 1.24.0
