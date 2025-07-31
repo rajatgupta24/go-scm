@@ -4,7 +4,7 @@
     "actor": {
         "name": "jcitizen",
         "emailAddress": "jane@example.com",
-        "id": 1,
+        "id": 0,
         "displayName": "Jane Citizen",
         "active": true,
         "slug": "jcitizen",
@@ -70,7 +70,7 @@
             "user": {
                 "name": "jcitizen",
                 "emailAddress": "jane@example.com",
-                "id": 1,
+                "id": 0,
                 "displayName": "Jane Citizen",
                 "active": true,
                 "slug": "jcitizen",
