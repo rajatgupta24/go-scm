@@ -15,8 +15,8 @@ require (
 	github.com/stretchr/testify v1.11.1
 	golang.org/x/oauth2 v0.36.0
 	gopkg.in/h2non/gock.v1 v1.1.2
-	k8s.io/apimachinery v0.34.1
-	k8s.io/utils v0.0.0-20250604170112-4c0f3b243397
+	k8s.io/apimachinery v0.36.1
+	k8s.io/utils v0.0.0-20260210185600-b8788abfbbc2
 )
 
 require (
@@ -40,11 +40,11 @@ require (
 )
 
 require (
-	github.com/davecgh/go-spew v1.1.1 // indirect
+	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/h2non/parth v0.0.0-20190131123155-b4df798d6542 // indirect
 	github.com/hashicorp/go-version v1.3.0 // indirect
 	github.com/mitchellh/reflectwalk v1.0.2 // indirect
-	github.com/pmezard/go-difflib v1.0.0 // indirect
+	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
 	golang.org/x/net v0.53.0 // indirect
 	golang.org/x/sys v0.43.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1
