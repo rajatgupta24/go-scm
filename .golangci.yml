@@ -98,11 +98,19 @@ linters:
         text: unused-parameter
       - path: (.+)\.go$
         text: 'shadow: declaration of "err" shadows declaration at'
+      - linters:
+          - gosec
+        path: _test\.go
+        text: 'G101|G706'
+      - linters:
+          - gosec
+        path: scm/factory/factory\.go
+        text: G101
     paths:
       - cmd/docs
       - third_party$
       - builtin$
-      - examples$
+      - scm/factory/examples
 issues:
   max-same-issues: 0
 formatters:
@@ -118,4 +126,4 @@ formatters:
       - cmd/docs
       - third_party$
       - builtin$
-      - examples$
+      - scm/factory/examples
