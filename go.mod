@@ -15,7 +15,7 @@ require (
 	github.com/stretchr/testify v1.11.1
 	golang.org/x/oauth2 v0.36.0
 	gopkg.in/h2non/gock.v1 v1.1.2
-	k8s.io/apimachinery v0.36.1
+	k8s.io/apimachinery v0.36.2
 )
 
 require (
